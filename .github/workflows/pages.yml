@@ -1,0 +1,53 @@
+name: Translate and publish portfolio
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Restore translation cache
+        uses: actions/cache@v4
+        with:
+          path: .translation-cache
+          key: zh-hans-v2-${{ github.sha }}
+          restore-keys: |
+            zh-hans-v2-
+      - name: Translate changed English content
+        run: node scripts/translate.mjs
+        env:
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+      - name: Validate translations and scripts
+        run: |
+          node scripts/translate.mjs --check
+          node --check dist/content.js
+          node --check dist/ui.js
+          node --check dist/app.js
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy website
+        id: deployment
+        uses: actions/deploy-pages@v4
