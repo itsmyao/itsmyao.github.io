@@ -33,7 +33,7 @@
     document.documentElement.lang=language==='zh'?'zh-CN':'en';
     const missing=new Set();
     document.querySelectorAll('[data-source]').forEach(el=>{const source=el.dataset.source;el.textContent=translate(source);if(language==='zh'&&!Object.hasOwn(cache,source))missing.add(source);});
-    document.title=`${translate(data.profile.name)} — ${translate(ui.title)}`;
+    document.title="It's MYAO";
     document.querySelector('meta[name="description"]').content=translate(data.profile.bio);
     document.querySelector('.skip').textContent=translate(ui.skip);
     document.querySelector('nav').setAttribute('aria-label',translate(ui.navigation));
