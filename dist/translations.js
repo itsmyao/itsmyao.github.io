@@ -1,5 +1,5 @@
 window.PORTFOLIO_ZH = {
-  "Tingting Yao": "Tingting Yao",
+  "Tingting Yao": "姚婷婷",
   "Fairfax, VA": "美国弗吉尼亚州费尔法克斯",
   "PH.D. STUDENT · COMPUTER SCIENCE": "计算机科学博士生",
   "Wearable and edge AI systems.": "可穿戴与边缘 AI 系统。",

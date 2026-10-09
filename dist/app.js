@@ -39,7 +39,6 @@
     document.querySelector('nav').setAttribute('aria-label',translate(ui.navigation));
     document.querySelector('.tabs').setAttribute('aria-label',translate(ui.filters));
     languageButton.textContent=language==='en'?'中文':'EN';languageButton.setAttribute('aria-label',language==='en'?'Switch to Chinese':'Switch to English');
-    const status=document.getElementById('translation-status');status.hidden=!missing.size;status.textContent=missing.size?translate(ui.missing):'';
     themeLabel();
   }
   languageButton.addEventListener('click',()=>{language=language==='en'?'zh':'en';applyLanguage();try{localStorage.setItem('portfolio-language',language)}catch{}});
