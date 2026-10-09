@@ -30,19 +30,19 @@ window.PORTFOLIO = {
   "publications": [
     {
       "year": "2026",
-      "venue": "IMC 2026 · October 2026",
-      "title": "When Smartglasses Meet AI: A First Performance Look",
-      "authors": "Tingting Yao, Ruizhe Shi, Yao Liu, Bo Han, Songqing Chen",
-      "abstract": "",
-      "url": "https://doi.org/10.1145/3777912.3839824"
-    },
-    {
-      "year": "2026",
       "venue": "IEEE Network · Accepted, 2026",
       "title": "AI Smartglasses in Practice: Reality and Challenges",
       "authors": "Tingting Yao, Ruizhe Shi, Yao Liu, Bo Han, Songqing Chen",
       "abstract": "",
       "url": ""
+    },
+    {
+      "year": "2026",
+      "venue": "IMC 2026 · October 2026",
+      "title": "When Smartglasses Meet AI: A First Performance Look",
+      "authors": "Tingting Yao, Ruizhe Shi, Yao Liu, Bo Han, Songqing Chen",
+      "abstract": "",
+      "url": "https://doi.org/10.1145/3777912.3839824"
     },
     {
       "year": "2023",
