@@ -23,7 +23,8 @@ window.PORTFOLIO = {
       "period": "Sept. 2020 – June 2024",
       "degree": "B.E. in Computer Science and Technology",
       "institution": "Huazhong University of Science and Technology",
-      "description": "Wuhan, China · GPA: 3.73/4.00."
+      "description": "Wuhan, China · GPA: 3.73/4.00.",
+      "thesis": "Undergraduate thesis: Unsupervised 3D Object Detection Based on Vision-Language Models"
     }
   ],
   "publications": [

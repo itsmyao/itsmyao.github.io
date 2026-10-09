@@ -125,5 +125,6 @@ window.PORTFOLIO_ZH = {
   "Co-authored the paper and experimental analysis.": "参与论文撰写和实验分析。",
   "Implemented word-count and inverted-index plugins with hash-based partitioning, JSON-encoded intermediate files, and per-key aggregation.": "实现词频统计和倒排索引插件，采用基于哈希的分区、JSON 编码的中间文件和按键聚合。",
   "Developed a concurrent task scheduler using Go goroutines, channels, and RPC calls to distribute map/reduce tasks and reuse workers; passed functional and worker-failure tests.": "使用 Go goroutine、channel 和 RPC 构建并发任务调度器，分发 map/reduce 任务并复用工作节点；通过功能测试和工作节点故障测试。",
-  "View details": "查看详情"
+  "View details": "查看详情",
+  "Undergraduate thesis: Unsupervised 3D Object Detection Based on Vision-Language Models": "本科毕业论文：基于视觉语言模型的无监督三维目标检测研究"
 };
