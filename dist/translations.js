@@ -1,4 +1,6 @@
 window.PORTFOLIO_ZH = {
+  "Nature & photography": "自然与摄影",
+  "Birdwatching and bird photography": "观鸟与鸟类摄影",
   "Tingting Yao": "姚婷婷",
   "Fairfax, VA": "美国弗吉尼亚州费尔法克斯",
   "PH.D. STUDENT · COMPUTER SCIENCE": "计算机科学博士生",

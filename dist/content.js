@@ -187,6 +187,12 @@ window.PORTFOLIO = {
   ],
   "hobbies": [
     {
+      "category": "Nature & photography",
+      "items": [
+        "Birdwatching and bird photography"
+      ]
+    },
+    {
       "category": "Favorite games",
       "items": [
         "Baldur’s Gate 3",
