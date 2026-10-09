@@ -38,7 +38,7 @@ window.PORTFOLIO = {
     },
     {
       "year": "2026",
-      "venue": "IEEE Network · Under review, 2026",
+      "venue": "IEEE Network · Accepted, 2026",
       "title": "AI Smartglasses in Practice: Reality and Challenges",
       "authors": "Tingting Yao, Ruizhe Shi, Yao Liu, Bo Han, Songqing Chen",
       "abstract": "",
@@ -73,7 +73,7 @@ window.PORTFOLIO = {
       "name": "Phone-Mediated Networking and AI Quality of Experience",
       "description": "",
       "organization": "George Mason University",
-      "period": "IEEE Network · First-author manuscript under review",
+      "period": "IEEE Network · First-author paper accepted",
       "tags": [],
       "url": "",
       "bullets": [
