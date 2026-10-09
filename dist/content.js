@@ -200,9 +200,10 @@ window.PORTFOLIO = {
       ]
     },
     {
-      "category": "Favorite novelist",
+      "category": "Favorite writers",
       "items": [
-        "Gabriel García Márquez"
+        "Gabriel García Márquez",
+        "Lu Xun"
       ]
     },
     {

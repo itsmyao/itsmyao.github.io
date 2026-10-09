@@ -1,4 +1,5 @@
 window.PORTFOLIO_ZH = {
+  "Lu Xun": "鲁迅",
   "Nature & photography": "自然与摄影",
   "Birdwatching and bird photography": "观鸟与鸟类摄影",
   "Tingting Yao": "姚婷婷",
@@ -102,7 +103,7 @@ window.PORTFOLIO_ZH = {
   "Ph.D. Student in Computer Science · Expected May 2029": "计算机科学博士生 · 预计 2029 年 5 月毕业",
   "Hobbies": "兴趣爱好",
   "Favorite games": "最爱的游戏",
-  "Favorite novelist": "最爱的小说家",
+  "Favorite writers": "最喜欢的文学家",
   "Favorite novels": "最爱的小说",
   "Baldur’s Gate 3": "博德之门3",
   "Super Mario Odyssey": "超级马里奥奥德赛",
