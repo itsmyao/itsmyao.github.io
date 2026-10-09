@@ -94,7 +94,7 @@ window.PORTFOLIO_ZH = {
   "Switch to Chinese": "切换为中文",
   "Research & Selected Work": "研究与精选项目",
   "Some updated text is shown in English until the next translation build completes.": "部分更新内容暂以英文显示，下一次自动翻译构建完成后将更新为中文。",
-  "Participation or withdrawal depends on the reality. Action or inaction is my decision.": "用舍由时，行藏在我",
+  "Pessimists are right. Optimists move forward.": "悲观者正确，乐观者前进",
   "Research project": "研究项目",
   "June 2026 – Present": "2026 年 6 月至今",
   "Sept. 2025 – May 2026": "2025 年 9 月至 2026 年 5 月",
