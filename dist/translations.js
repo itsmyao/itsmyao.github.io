@@ -1,4 +1,7 @@
 window.PORTFOLIO_ZH = {
+  "Kayaking": "皮划艇",
+  "Hiking": "徒步",
+  "Cycling": "骑行",
   "Lu Xun": "鲁迅",
   "Nature & photography": "自然与摄影",
   "Birdwatching and bird photography": "观鸟与鸟类摄影",

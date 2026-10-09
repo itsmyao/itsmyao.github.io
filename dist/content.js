@@ -189,7 +189,10 @@ window.PORTFOLIO = {
     {
       "category": "Nature & photography",
       "items": [
-        "Birdwatching and bird photography"
+        "Birdwatching and bird photography",
+        "Kayaking",
+        "Hiking",
+        "Cycling"
       ]
     },
     {
