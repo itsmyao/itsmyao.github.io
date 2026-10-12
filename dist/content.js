@@ -38,7 +38,7 @@ window.PORTFOLIO = {
     },
     {
       "year": "2026",
-      "venue": "IMC 2026 · October 12, 2026",
+      "venue": "IMC 2026 · Published: October 12, 2026",
       "title": "When Smartglasses Meet AI: A First Performance Look",
       "authors": "Tingting Yao, Ruizhe Shi, Yao Liu, Bo Han, Songqing Chen",
       "abstract": "",
@@ -46,7 +46,7 @@ window.PORTFOLIO = {
     },
     {
       "year": "2023",
-      "venue": "PRCV 2023 · December 24, 2023",
+      "venue": "PRCV 2023 · Published: December 24, 2023",
       "title": "Diffusion-Based 3D Object Detection with Random Boxes",
       "authors": "Xin Zhou, Jinghua Hou, Tingting Yao, Dingkang Liang, Zhe Liu, Zhikang Zou, Xiaoqing Ye, Jianwei Cheng, Xiang Bai",
       "abstract": "",
