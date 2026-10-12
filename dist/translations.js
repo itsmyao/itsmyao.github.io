@@ -19,7 +19,7 @@ window.PORTFOLIO_ZH = {
   "B.E. in Computer Science and Technology": "计算机科学与技术学士",
   "Huazhong University of Science and Technology": "华中科技大学",
   "Wuhan, China · GPA: 3.73/4.00.": "中国武汉 · GPA：3.73/4.00。",
-  "IMC 2026 · October 2026": "IMC 2026 · 2026 年 10 月",
+  "IMC 2026 · October 12, 2026": "IMC 2026 · 2026 年 10 月 12 日",
   "When Smartglasses Meet AI: A First Performance Look": "当智能眼镜遇上 AI：首次性能观察",
   "Tingting Yao, Ruizhe Shi, Yao Liu, Bo Han, Songqing Chen": "Tingting Yao, Ruizhe Shi, Yao Liu, Bo Han, Songqing Chen",
   "IEEE Network · Accepted, 2026": "IEEE Network · 已接收，2026 年",

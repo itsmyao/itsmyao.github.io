@@ -38,7 +38,7 @@ window.PORTFOLIO = {
     },
     {
       "year": "2026",
-      "venue": "IMC 2026 · October 2026",
+      "venue": "IMC 2026 · October 12, 2026",
       "title": "When Smartglasses Meet AI: A First Performance Look",
       "authors": "Tingting Yao, Ruizhe Shi, Yao Liu, Bo Han, Songqing Chen",
       "abstract": "",
