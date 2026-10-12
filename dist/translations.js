@@ -24,7 +24,7 @@ window.PORTFOLIO_ZH = {
   "Tingting Yao, Ruizhe Shi, Yao Liu, Bo Han, Songqing Chen": "Tingting Yao, Ruizhe Shi, Yao Liu, Bo Han, Songqing Chen",
   "IEEE Network · Accepted, 2026": "IEEE Network · 已接收，2026 年",
   "AI Smartglasses in Practice: Reality and Challenges": "AI 智能眼镜的实践：现状与挑战",
-  "PRCV 2023 · September 2023": "PRCV 2023 · 2023 年 9 月",
+  "PRCV 2023 · December 24, 2023": "PRCV 2023 · 2023 年 12 月 24 日",
   "Diffusion-Based 3D Object Detection with Random Boxes": "基于随机框的扩散式三维目标检测",
   "Xin Zhou, Jinghua Hou, Tingting Yao, Dingkang Liang, Zhe Liu, Zhikang Zou, Xiaoqing Ye, Jianwei Cheng, Xiang Bai": "Xin Zhou, Jinghua Hou, Tingting Yao, Dingkang Liang, Zhe Liu, Zhikang Zou, Xiaoqing Ye, Jianwei Cheng, Xiang Bai",
   "Distributed MapReduce Framework": "分布式 MapReduce 框架",

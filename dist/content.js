@@ -46,11 +46,11 @@ window.PORTFOLIO = {
     },
     {
       "year": "2023",
-      "venue": "PRCV 2023 · September 2023",
+      "venue": "PRCV 2023 · December 24, 2023",
       "title": "Diffusion-Based 3D Object Detection with Random Boxes",
       "authors": "Xin Zhou, Jinghua Hou, Tingting Yao, Dingkang Liang, Zhe Liu, Zhikang Zou, Xiaoqing Ye, Jianwei Cheng, Xiang Bai",
       "abstract": "",
-      "url": "https://doi.org/10.48550/arXiv.2309.02049"
+      "url": "https://doi.org/10.1007/978-981-99-8432-9_3"
     }
   ],
   "projects": [
