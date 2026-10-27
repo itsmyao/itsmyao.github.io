@@ -30,7 +30,7 @@ window.PORTFOLIO = {
   "publications": [
     {
       "year": "2026",
-      "venue": "IEEE Network · Accepted, 2026",
+      "venue": "IEEE Network · Accepted: October 2026",
       "title": "AI Smartglasses in Practice: Reality and Challenges",
       "authors": "Tingting Yao, Ruizhe Shi, Yao Liu, Bo Han, Songqing Chen",
       "abstract": "",
@@ -73,7 +73,7 @@ window.PORTFOLIO = {
       "name": "Phone-Mediated Networking and AI Quality of Experience",
       "description": "",
       "organization": "George Mason University",
-      "period": "IEEE Network · First-author paper accepted",
+      "period": "IEEE Network · First-author paper · Accepted: October 2026",
       "tags": [],
       "url": "",
       "bullets": [
@@ -111,6 +111,21 @@ window.PORTFOLIO = {
       "bullets": [
         "Implemented word-count and inverted-index plugins with hash-based partitioning, JSON-encoded intermediate files, and per-key aggregation.",
         "Developed a concurrent task scheduler using Go goroutines, channels, and RPC calls to distribute map/reduce tasks and reuse workers; passed functional and worker-failure tests."
+      ]
+    },
+    {
+      "type": "development",
+      "name": "Vision-Guided Raspberry Pi Robotic Car",
+      "description": "",
+      "organization": "National University of Singapore · School of Computing Summer Workshop",
+      "period": "July 2023",
+      "tags": [],
+      "url": "",
+      "bullets": [
+        "Contributed to a Raspberry Pi robotic car supporting remote control, automatic obstacle avoidance, and visual tracking.",
+        "Installed the ultrasonic sensor and implemented obstacle-avoidance logic.",
+        "Implemented ArUco marker localization and tracking, and configured SSH communication between a laptop and the Raspberry Pi.",
+        "Designed the poster for the final project presentation."
       ]
     }
   ],
