@@ -160,7 +160,8 @@ window.PORTFOLIO = {
       "category": "Languages",
       "items": [
         "Python",
-        "C/C++",
+        "C",
+        "C++",
         "Go"
       ]
     },
