@@ -34,7 +34,7 @@ window.PORTFOLIO = {
       "title": "AI Smartglasses in Practice: Reality and Challenges",
       "authors": "Tingting Yao, Ruizhe Shi, Yao Liu, Bo Han, Songqing Chen",
       "abstract": "",
-      "url": ""
+      "url": "https://itsmyao.github.io/ieeenetwork4pw.pdf"
     },
     {
       "year": "2026",
