@@ -198,6 +198,12 @@ window.PORTFOLIO = {
         "Android Debug Bridge",
         "LaTeX"
       ]
+    },
+    {
+      "category": "Databases",
+      "items": [
+        "MySQL"
+      ]
     }
   ],
   "hobbies": [

@@ -1,4 +1,6 @@
 window.PORTFOLIO_ZH = {
+  "Databases": "数据库",
+  "MySQL": "MySQL",
   "Contributed to a Raspberry Pi robotic car supporting remote control, automatic obstacle avoidance, and visual tracking.": "参与开发支持遥控操作、自动避障与视觉跟踪的树莓派智能小车。",
   "Installed the ultrasonic sensor and implemented obstacle-avoidance logic.": "安装超声波传感器，并实现避障逻辑。",
   "Implemented ArUco marker localization and tracking, and configured SSH communication between a laptop and the Raspberry Pi.": "实现 ArUco 标记定位与跟踪，配置笔记本与树莓派之间的 SSH 通信。",
