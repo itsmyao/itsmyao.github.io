@@ -32,7 +32,7 @@ window.PORTFOLIO_ZH = {
   "IMC 2026 · Published: October 12, 2026": "IMC 2026 · 发表于：2026 年 10 月 12 日",
   "When Smartglasses Meet AI: A First Performance Look": "当智能眼镜遇上 AI：首次性能观察",
   "Tingting Yao, Ruizhe Shi, Yao Liu, Bo Han, Songqing Chen": "Tingting Yao, Ruizhe Shi, Yao Liu, Bo Han, Songqing Chen",
-  "IEEE Network · Accepted: October 2026": "IEEE Network · 接收时间：2026 年 10 月",
+  "IEEE Network · Published: October 29, 2026": "IEEE Network · 发表于：2026 年 10 月 29 日",
   "AI Smartglasses in Practice: Reality and Challenges": "AI 智能眼镜的实践：现状与挑战",
   "PRCV 2023 · Published: December 24, 2023": "PRCV 2023 · 发表于：2023 年 12 月 24 日",
   "Diffusion-Based 3D Object Detection with Random Boxes": "基于随机框的扩散式三维目标检测",

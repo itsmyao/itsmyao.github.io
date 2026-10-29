@@ -30,11 +30,14 @@ window.PORTFOLIO = {
   "publications": [
     {
       "year": "2026",
-      "venue": "IEEE Network · Accepted: October 2026",
+      "venue": "IEEE Network · Published: October 29, 2026",
       "title": "AI Smartglasses in Practice: Reality and Challenges",
       "authors": "Tingting Yao, Ruizhe Shi, Yao Liu, Bo Han, Songqing Chen",
       "abstract": "",
-      "url": "https://itsmyao.github.io/ieeenetwork4pw.pdf"
+      "url": "https://itsmyao.github.io/ieeenetwork4pw.pdf",
+      "doi": {
+        "url": "https://doi.org/10.1109/MNET.2026.3743913"
+      }
     },
     {
       "year": "2026",
